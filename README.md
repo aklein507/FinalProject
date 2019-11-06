@@ -6,4 +6,4 @@ This is a new line
 
 
 
-Creating a merge conflict in the original repository!
+Continuing assignment to create merge conflict example!
