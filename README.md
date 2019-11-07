@@ -7,3 +7,4 @@ This is a new line
 
 
 Continuing assignment to create merge conflict example!
+\nAdapter file: adapters.fa
